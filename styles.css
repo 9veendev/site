@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: url(./5517053.jpg);
+    background-size: cover;
+}
+p{
+    color: rgb(231 222 136);
+}
+.naveen{
+    color: rgb(231 222 136);
+    margin-left: 250px;
+}
+.naveen h1 c{
+    margin-left: 100px;
+}
+ul{
+    float: right;
+    display: flex;
+    margin-right: 50px;
+}
+ul li{
+    list-style-type: none;
+    display: flex;
+    padding: 0  0.7em;
+    margin-left: 50px;
+    margin-block: 9px;
+    margin:12px;
+    color: rgb(231 222 136);
+}
+.links{
+    margin-left: 40px;
+    margin-top: 150px;
+}
+.naveen h1 d{
+    font-family: 'Luckiest Guy', cursive;
+    color: #fa4659;
+}
+.naveen h1 c{
+    font-family: 'Creepster', cursive;
+    font-size: 60px;
+}
+.footer{
+    text-align: center;
+    margin-top: 130px;
+}
+.footer i{
+    letter-spacing: 40px;
+}
+ul li c{
+    font-family: 'Finger Paint', cursive;
+color: red;
+}
+ul li d{
+    font-family: 'Freckle Face', cursive;
+    color: rgb(0, 4, 255);
+}
+ul li e{
+    font-family: 'Ma Shan Zheng', cursive;
+    color: rgb(214, 33, 214);
+}
+ul li f{
+    font-family: 'Vampiro One', cursive;
+    color: yellow;
+}
+.naveen h1 c z{
+    font-family: 'Zilla Slab Highlight', cursive;
+    font-size: 100px;
+}
